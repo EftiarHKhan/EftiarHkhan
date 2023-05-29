@@ -13,7 +13,7 @@
 
 Skills: HTML / CSS / Java / MYSQL / C / C++ / C# / Dart / PYTHON / Flutter 
 
-- 🔭 I’m currently working on Tigris Production 
+- 🔭 I’m currently working on ReSoft LTD 
 - 🌱 I’m currently learning Machine Learning  & Flutter development
 - 📫 How to reach me: mdeftiar.official@gmail.com 
 
