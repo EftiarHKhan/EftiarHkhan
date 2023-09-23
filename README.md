@@ -2,9 +2,9 @@
 ### Hi 👋, Md Eftiar Haider Khan is here!
 #### Learner| Programmer 
 
-💻 I am a current student of IUBAT (CSE).
+💻 I am a Software Engineer (Flutter) at Right Brain Solution Ltd.
 
-🎓 Currently I am learning Python, Machine Learning
+🎓 Currently I am doing mobile application development using FLutter.
 
 🚀 I am passionate about Deep Learning, Machine Learning, Artificial 
       Intelligence, Cloud Computing, Flutter Development
@@ -13,7 +13,7 @@
 
 Skills: HTML / CSS / Java / MYSQL / C / C++ / C# / Dart / PYTHON / Flutter 
 
-- 🔭 I’m currently working on ReSoft LTD 
+- 🔭 I’m currently working on Right Brain Solution Ltd 
 - 🌱 I’m currently learning Machine Learning  & Flutter development
 - 📫 How to reach me: mdeftiar.official@gmail.com 
 
