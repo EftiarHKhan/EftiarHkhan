@@ -29,7 +29,7 @@ Skills: HTML / CSS / Java / MYSQL / C / C++ / C# / Dart / PYTHON / Flutter
 <a href="https://www.hackerrank.com/mdeftiar111" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="mdeftiar111" height="30" width="40" /></a>
 
 ### Website:
-<a href="#" target="blank"><img align="center" src="https://i.ibb.co/k452cRP/373-3730365-web-icons-vector-png-favicon.png" alt="mdeftiar" height="30" width="40" /></a>
+<a href="https://sites.google.com/view/md-eftiar-haider-khan" target="blank"><img align="center" src="https://i.ibb.co/k452cRP/373-3730365-web-icons-vector-png-favicon.png" alt="mdeftiar" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
